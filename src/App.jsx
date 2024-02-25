@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <button className="btn btn-primary">atta</button>
+      <button className="btn btn-primary">hello button</button>
         
     </>
   )
