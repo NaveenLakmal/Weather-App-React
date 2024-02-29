@@ -4,13 +4,15 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.min.js'
+import Home from './componets/Home'
+
 
 function App() {
   
 
   return (
     <>
-      <button className="btn btn-primary">hello button</button>
+      <Home></Home>
         
     </>
   )
