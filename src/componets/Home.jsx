@@ -5,6 +5,7 @@ function Home() {
     // const apikey=b2f37cbc9a7d45ab95142554242502;
     let districkValue;
 
+   // const[number,setNumber]=useState(50)
     const [whether, setWeather] = useState(
         {
             name: 'Name',

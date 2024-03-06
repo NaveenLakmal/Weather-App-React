@@ -1,0 +1,66 @@
+.country {
+    margin-top: 2%;
+    font-size: 34px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+
+.province {
+
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(20, 12, 160);
+    text-align: center;
+}
+
+.city {
+
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(20, 12, 160);
+    text-align: center;
+}
+
+.d-flex {
+    
+    justify-content: center;
+
+    font-weight: bold;
+    color: rgb(20, 12, 160);
+    text-align: center;
+}
+
+.temperature {
+    font-size: 55px;
+}
+
+.status {
+    font-size: 28px;
+    font-weight: bold;
+    color: rgb(1, 78, 125);
+    text-align: center;
+}
+
+.form-control {
+    border: 4px solid #ffffff;
+    background: scroll;
+
+}
+.inputAndButton{
+    margin-top: 10%;
+}
+
+.searchFormDiv {
+    
+    border-radius: 20px;
+    
+    margin-left: 23%;
+    backdrop-filter: blur(5px);
+    width: 50%;
+    height: 150px;
+    box-sizing: border-box; /* Include padding and border in the total width and height */
+    /* Other styling properties */
+    /* Adjust the height as needed */
+    /* Other styling properties */
+}
